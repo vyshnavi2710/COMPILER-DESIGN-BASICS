@@ -12,4 +12,5 @@ TEXT FILE:
 ![Image](https://github.com/user-attachments/assets/14f7710e-f512-4f37-b7b4-7aa2d82a679b)
 
 OUTPUT:
+![Image](https://github.com/user-attachments/assets/ddfc914d-08ce-460e-bbd8-41c35555aef3)
 
